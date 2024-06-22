@@ -198,5 +198,4 @@ The final goal is to apply Harris and Susan corner detection to the image, after
 
 # Technologies
 - Python
-
 - Google Colab
